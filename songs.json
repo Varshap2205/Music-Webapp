@@ -1,0 +1,28 @@
+[
+    {
+        "id":"01",
+        "name":"abc",
+        "image":"../assets/song-1.png",
+        "artist":"abc",
+        "info":"Dhvani Bhanushali is a popular Indian singer known for her melodious voice and chart-topping hits. She gained widespread recognition with songs like Vaaste, which became one of the most-viewed music videos on YouTube. Dhvani's versatile singing style spans various genres, and she has quickly established herself as a prominent figure in the Indian music industry. Her soulful renditions and vibrant music videos have earned her a massive fan following, making her one of the rising stars in Bollywood music."
+    },
+
+    {
+        "id":"02",
+        "name":"def",
+        "image":"../assets/song-2.png",
+        "artist":"def"
+    },
+    {
+        "id":"03",
+        "name":"pqr",
+        "image":"../assets/song-3.png",
+        "artist":"abcd"
+    },
+    {
+        "id":"04",
+        "name":"pqrs",
+        "image":"../assets/song-4.png",
+        "artist":"abcd3"
+    }
+]
